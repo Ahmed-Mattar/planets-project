@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ahmed-Mattar/planets-project/issues"
   },
-  "homepage": "https://github.com/Ahmed-Mattar/planets-project#readme"
+  "homepage": "https://github.com/Ahmed-Mattar/planets-project#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
 }
